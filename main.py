@@ -14,7 +14,7 @@ except ModuleNotFoundError:
     os.system("pip install datetime")
     os.system("pip install colorama")
     os.system("pip install pystyle")
-    os.system("pip install websocket")
+    os.system("pip install websocket-client")
     os.system("pip install py_mini_racer")
 
 from pystyle import Write, System, Colors, Colorate, Center
